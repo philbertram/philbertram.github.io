@@ -30,7 +30,11 @@
 *   [Gut and gill with hands](https://youtu.be/p-0y7dA1ZGY)
 *   [Marinated raw fish](https://www.fishing.net.nz/fishing-advice/seafood-recipes/kokoda-recipe-with-kahawai)
 *   [Vacuum Bags](https://zeropak.co.nz/product/28cm-roll-x-15-metres/)
-*   [Vacuum sealer tricks](vacuum_sealer_tricks.jpg)#### Rod N Reel RepairsRoss Gibbison, 027 829 3188#### Accommodation
-*   [Anglers Lodge (Amodeo Bay)](http://www.anglers.co.nz/)*   [Papa Aroha Holiday Camp](http://www.papaaroha.co.nz/)
+*   [Vacuum sealer tricks](vacuum_sealer_tricks.jpg)
+#### Rod N Reel Repairs
+Ross Gibbison, 027 829 3188
+#### Accommodation
+*   [Anglers Lodge (Amodeo Bay)](http://www.anglers.co.nz/)
+*   [Papa Aroha Holiday Camp](http://www.papaaroha.co.nz/)
 #### Muscle Farm Etiquette
 Don't anchor , go into farm and  hook up to backbone pne which is normally a 28mm rope. Either by carefully hooking a rope around and tying off on the bite or using a short rope on a steel hook , not anchor. So allow for wind to set you back off rope. Look for floats a bit higher in water with growth which means recently harvested. Mussel farmers are usually more than happy for you to fish in farm as removing snapper means more mussels.  Their pet hates.  - Tying up too close to working barge , 50m . Unless you know them and helped them get there skippers ticket LOL.  - Anchoring , even outside farm can cause a lot of damage and cost.  - Securing to backbone in a manner that causes abrasion.  - Fishing with pght tackle or braid which is a nightmare when becoming entangled in droppers.
