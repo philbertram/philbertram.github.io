@@ -11,7 +11,8 @@
 *   [Sounder Manual](MARK-ELITE_SONAR-ONLY_OM_EN_988-10157-001_w.pdf)
 *   [GPS Manual](GPSMAP76_OwnersManual.pdf)
 *   [Outboard Manual](yamaha30.pdf)
-#### Line and ReelsPE x 5 = breaking strain in kilograms(approximate).  PE to diameter 
+#### Line and Reels
+PE x 5 = breaking strain in kilograms(approximate).  PE to diameter 
 [table](braid_sizes.png).  Spooling reels. Main line and backing [estimator](https://www.pattayafishing.net/advanced-fishing-reel-line-capacity-estimator/).
 **Line on reels**
 <table><tbody><tr><th>Reel</th><th>Line</th><th>Backing</th><th>Comments</th></tr><tr><td>Daiwa BG 3000</td><td>PE 1.2 (15lb J-braid X8)</td><td>Unknown mono</td><td>[US Specs](https://www.daiwa.com/us/contents/reels/bg_sw_spinning/index.html)</td></tr><tr><td>Calcutta 400D</td><td>~130m PE 0.8 (10lb J-braid X8)</td><td>Technium, 0.355mm, 11.5kg</td><td>[US Specs](http://fish.shimano.com/content/fish/northamerica/us/en/homepage/Shimano_Product_Page.P-CALCUTTA_D.html)  330yds/12lb</td></tr><tr><td>6500 C3 Sports Rocket MKII</td><td>~130m PE 1.2 (15lb J-braid X4)</td><td>Yo-Zuri</td><td>[Reel schematic](6500CTCHROMEROCKET.pdf)  320yds/12lb</td></tr><tr><td>Daiwa baitcaster</td><td>None</td><td>Yo-Zuri</td><td>-</td></tr></tbody></table>
